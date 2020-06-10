@@ -1,0 +1,40 @@
+*{
+	margin:0;
+	padding:0;
+	-webkit-box-sizing:border-box;
+	box-sizing:border-box;	
+	}
+	
+body{
+		background-color:cadetblue
+		}
+body{
+    text-align: justify}
+body{image-orientation: center} 
+.navegacion{
+		
+		width:300px;
+		margin:20px 800px;
+		background-color:aquamarine
+		
+	}
+
+.navegacion ul{
+		list-style:none;
+		}
+	
+.navegacion ul li{
+		position:relative;
+		display:inline-block; /* uno a lado de otro*/
+		}	
+		
+.menu >li >a {
+		display:block;
+		padding:15px 20px;
+		color:#FFFFFF;
+		font-family:"Comic Sans MS", cursive;
+		text-decoration:none;
+		}
+.menu li a:hover{
+    
+    
